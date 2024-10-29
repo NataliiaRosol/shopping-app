@@ -8,13 +8,13 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path='/' element={<ProductListPage/>}/>
+        <Route path='/' element={<ProductListPage/>}></Route>
       </Routes>
       <Routes>
-        <Route path='/product-details/:id' element={<ProductDetailsPage/>}/>
+        <Route path='/product-details/:id' element={<ProductDetailsPage/>}></Route>
       </Routes>
       <Routes>
-        <Route path='/cart' element={<CartPage/>}/>
+        <Route path='/cart' element={<CartPage/>}></Route>
       </Routes>
     </>
   )
