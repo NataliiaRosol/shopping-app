@@ -2,7 +2,7 @@
   "name": "shopping-card",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://NataliiaRosol.github.io/shopping-app",
+  "homepage": "https://NataliiaRosol.github.io/shopping-app/products",
   "type": "module",
   "scripts": {
     "dev": "vite",
