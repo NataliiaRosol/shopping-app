@@ -7,7 +7,7 @@ export default defineConfig({
   // base: '/shopping-app/',
   build: {
     rollupOptions: {
-      external: ['react-router-dom']
+      external: []
     }
   }
 })
