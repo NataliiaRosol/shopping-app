@@ -1,5 +1,6 @@
 import { useContext } from "react"
 import { ShoppingCartContext } from "../../../context/ShoppingCartContext"
+//info
 
 
 export default function CartTile({cartItem}){
